@@ -16,18 +16,18 @@ Com a grande dificuldade em atender todas as demandas dos clientes, ele te contr
 
 - **Funções criadas:**
 
--Buscar Corte.
+  -Buscar Corte.
 
--Buscar Barba.
+  -Buscar Barba.
 
--Consultar se a barbearia está aberta ou fechada.
+  -Consultar se a barbearia está aberta ou fechada.
 
--Buscar todos os cortes que a barbearia oferece.
+  -Buscar todos os cortes que a barbearia oferece.
 
--Buscar todas as barbas que a barbearia oferece.
+  -Buscar todas as barbas que a barbearia oferece.
 
--Orçar um pedido.
+  -Orçar um pedido.
 
--Atualizar serviço.
+  -Atualizar serviço.
 
--Calcular o valor total.
+  -Calcular o valor total.
